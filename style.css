@@ -1,7 +1,33 @@
+body{
+    background-image:url("https://i.pinimg.com/originals/0b/98/de/0b98de239fcb91ef0411dd0b6185e47e.jpg") ;
+    background-attachment: fixed;
+    width: 100%;
+    overflow-x: hidden;
+    background-size: cover;
+}
+p,h3,h2,h4{
+    color:white ;
+    font-size: 1.3em;
+    /* float: left; */
+    margin-left: 2em;
+    margin-right: 2em;
+    padding: 1em;
+
+}
+
 h1{
-    color:green
+    font-size: 400%;
+    color: white ;
+    text-align:center;
 }
 
 
 
-   
+.Hej a {
+       font-size: 200%;
+       color:white; 
+   }
+
+   img{
+       float:right
+   }
